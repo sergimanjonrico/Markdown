@@ -35,5 +35,5 @@ echo "Hola mundo"
 ### Imagen
 ![](https://www.google.com/imgres?q=futbol%20libre&imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FzRe9-Loct_wdUL8uuWMFqElFPhlsLDWYNemkyYNLWdQZhIWQPoWSQ_6o7wzBWB2Y6A%3Dw600-h300-pc0xffffff-pd&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.futbolenvivo.futbollibre%26hl%3Des&docid=D-RWNtuSGDubeM&tbnid=Antnx3KohraQoM&vet=12ahUKEwi57_rmpICQAxUOU6QEHfG4ACcQM3oECBkQAA..i&w=600&h=300&hcb=2&ved=2ahUKEwi57_rmpICQAxUOU6QEHfG4ACcQM3oECBkQAA)
 ### Imagen del directorio images
-https://www.istockphoto.com/es/foto/hombre-con-brazos-cruzados-aislados-sobre-fondo-gris-gm1171169099-324369981 
+![](images/https://www.istockphoto.com/es/foto/hombre-con-brazos-cruzados-aislados-sobre-fondo-gris-gm1171169099-324369981) 
 
